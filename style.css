@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Cookie&family=Courgette&family=Lobster+Two&family=Roboto+Condensed:wght@300&family=Yellowtail&display=swap');
+
+body{
+    background-color: black;
+    width: 100%;
+}
+.full{
+    padding: 0.1px;
+  background-image: url("img/Novo\ Projeto\ \(15\).jpg");
+  background-size: cover;
+  opacity: 1;
+  background-attachment: fixed;
+}
+.container-retina{
+    opacity: 0.7;
+    padding: 0;
+    background-color: #000;
+    height: 600px;}
+
+
+
+
+
+
+
+
+
+
+.sub{
+    color: #fff;
+    font-size: 35px;
+     text-decoration: none;
+     margin-left: 60%;
+    margin-right: 10%;
+    font-family: 'Alex Brush', cursive;
+
+}
+.sub1{
+color: #fff;
+    font-size: 35px;
+     text-decoration: none;
+     margin-right: 10%;
+    
+    font-family: 'Alex Brush', cursive;
+    }
+    .sub2{
+        color: #fff;
+            font-size: 35px;
+             text-decoration: none;
+          
+            
+            font-family: 'Alex Brush', cursive;
+            }
+.jumbotron {
+
+    padding: 2%3%;
+
+    background: none;
+    
+    
+}
+
+
+
+
+.display-4{
+   
+    padding:3%;
+    top: 10%;
+    color:darkgoldenrod;
+    font-size:calc(14px +2.5vw);
+    font-style: oblique;
+    font-family: 'Yellowtail', cursive;
+    
+}
+.button1{
+    color:darkgoldenrod;
+  
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family: 'Yellowtail', cursive;
+    
+}
+.text{
+
+    color: #fff;
+    font-size:calc(14px + 2.5vw);
+    margin-top: 10%;
+    
+    font-family: 'Alex Brush', cursive;
+}
+
+.sobre{
+ 
+    padding: 0;
+    background-color: black
+
+}
+h2{
+text-align: center;
+
+    color:darkgoldenrod;
+    font-family: 'Cookie', cursive;
+    font-size: 60px; 
+    
+}
+#foto1{
+border-radius: 15px;
+margin-left: 10%;
+height: 600px;
+
+
+
+
+
+}
+.texto1{
+    vertical-align: middle;
+float: right;
+    font-size: 25px;
+    color:#fff;
+  width: 300px;
+    height: 400px;
+    margin-right: 30%;
+    font-family: 'Cookie', cursive;
+   
+
+
+}
+
+.formulário{
+    float: left;
+width: 50%;
+color:darkgoldenrod;
+padding: 2%;
+font-family: 'Cookie', cursive;
+font-size: 25px;
+border-radius: 10px;
+
+
+
+}
+button{
+    color:darkgoldenrod;
+    background:none;
+    margin:2%;
+    font-family: 'Cookie', cursive;
+   
+}
+#banner{
+    width: 1200px;
+    margin-top: 2%;
+    position: relative;
+    left: 5%;
+    border-radius: 15px;
+    box-shadow: 3px 3px 6px #333;
+    filter: contrast(70%)
+}
+    
+    dl{
+     
+  
+        color:darkgoldenrod;
+        font-size: 20px;
+        float: right;
+        font-family: 'Cookie', cursive;
+        margin-right: 5%;
+        
+        
+    }
+    .card{
+background-color:black;
+color: darkgoldenrod;
+float: right;
+margin:15px;
+right: 10%;
+
+
+
+    }
+    .nav-link{
+        font-family:'Cookie', cursive;
+        font-size: 30px;
+
+
+    }
+    .botao1{
+        color:black;
+        text-decoration:none;
+      background-color: #fff;
+      border-radius: 5%;
+      padding: 5px;
+
+    }
+@media (max-widht:991px){
+
+   .banner{
+       width: 300px;
+   }
+
+}
+    
+
+
+
+    
+
